@@ -1,4 +1,4 @@
-- ***Following repo contains some basic scripts for performing download and interpolation of Irene data, I tried to name the scripts as per the intent they fulfill please feel free to rename them***
+***Following repo contains some basic scripts for performing download and interpolation of Irene data, I tried to name the scripts as per the intent they fulfill please feel free to rename them***
 
 - July_to_Aug23_data_download.py - is the script to download the data between July to Aug 23rd 2025 from the cloud (One sample file downloaded is present in July_to_Aug23_sample_file), further this json can also be converted to csv, its logic is present in July_to_Aug23_json_to_csv.ipynb
 
